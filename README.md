@@ -23,3 +23,6 @@ i.	Build a simple OpenGl scene which contains a simple object like a car or a bi
 j.	Use keyboard clicks to control the moving of the previous object
 
 k.	Use keyboard clicks to control the camera coordinates of the scene (zoom in or zoom out)
+
+# main.cpp for 2d implementation using C++
+# main2.cpp for openGL code 
