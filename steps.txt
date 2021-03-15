@@ -1,0 +1,5 @@
+x = 489  y= 371 your end point is outside the window
+x = 487.93  y= 285.97  by clipping end point
+x = 487  y= 212 finally the first point of the line became 
+x = 487.93  y= 285.97 and the end point of the line became 
+
